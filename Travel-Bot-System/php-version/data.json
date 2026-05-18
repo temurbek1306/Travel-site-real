@@ -1,0 +1,150 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name_uz": "Dubay, BAA",
+      "name_ru": "Дубай, ОАЭ",
+      "name_en": "Dubai, UAE",
+      "price": 850,
+      "duration_uz": "7 kun / 6 tun",
+      "duration_ru": "7 дней / 6 ночей",
+      "duration_en": "7 days / 6 nights",
+      "description_uz": "Premium mehmonxonalar va hashamatli dam olish.",
+      "description_ru": "Премиум отели и роскошный отдых.",
+      "description_en": "Premium hotels and luxury holidays.",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": 2,
+      "name_uz": "Turkiya, Antaliya",
+      "name_ru": "Турция, Анталья",
+      "name_en": "Turkey, Antalya",
+      "price": 1100,
+      "duration_uz": "10 kun / 9 tun",
+      "duration_ru": "10 дней / 9 ночей",
+      "duration_en": "10 days / 9 nights",
+      "description_uz": "O'rta dengiz sohilida All-inclusive dam olish.",
+      "description_ru": "Отдых All-inclusive на побережье Средиземного моря.",
+      "description_en": "All-inclusive holiday on the Mediterranean coast.",
+      "image": "https://images.unsplash.com/photo-1523410348235-97753e147814?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": 3,
+      "name_uz": "Misr, Sharm el-Sheyx",
+      "name_ru": "Египет, Шарм-эль-Шейх",
+      "name_en": "Egypt, Sharm el-Sheikh",
+      "price": 750,
+      "duration_uz": "8 kun / 7 tun",
+      "duration_ru": "8 дней / 7 ночей",
+      "duration_en": "8 days / 7 nights",
+      "description_uz": "Qizil dengizning ajoyib marjon qoyalari.",
+      "description_ru": "Удивительные коралловые рифы Красного моря.",
+      "description_en": "Amazing coral reefs of the Red Sea.",
+      "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": 4,
+      "name_uz": "Maldiv orollari",
+      "name_ru": "Мальдивские острова",
+      "name_en": "Maldives",
+      "price": 1800,
+      "duration_uz": "6 kun / 5 tun",
+      "duration_ru": "6 дней / 5 ночей",
+      "duration_en": "6 days / 5 nights",
+      "description_uz": "Moviy okean ustidagi romantik dam olish.",
+      "description_ru": "Романтический отдых над лазурным океаном.",
+      "description_en": "Romantic holiday over the azure ocean.",
+      "image": "https://images.unsplash.com/photo-1506929113614-bb40ff161d2a?q=80&w=1964&auto=format&fit=crop"
+    },
+    {
+      "id": 5,
+      "name_uz": "Shvetsariya, Alp tog'lari",
+      "name_ru": "Швейцария, Альпы",
+      "name_en": "Switzerland, Alps",
+      "price": 2200,
+      "duration_uz": "7 kun / 6 tun",
+      "duration_ru": "7 дней / 6 ночей",
+      "duration_en": "7 days / 6 nights",
+      "description_uz": "Tog' silsilalarining go'zal manzaralari va toza havo.",
+      "description_ru": "Красивые горные пейзажи и чистый воздух.",
+      "description_en": "Beautiful mountain landscapes and fresh air.",
+      "image": "https://images.unsplash.com/photo-1531310197839-ccf54634509e?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": 6,
+      "name_uz": "Yaponiya, Tokio",
+      "name_ru": "Япония, Токио",
+      "name_en": "Japan, Tokyo",
+      "price": 2500,
+      "duration_uz": "10 kun / 9 tun",
+      "duration_ru": "10 дней / 9 ночей",
+      "duration_en": "10 days / 9 nights",
+      "description_uz": "Kelajak texnologiyalari va qadimiy madaniyat.",
+      "description_ru": "Технологии будущего и древняя культура.",
+      "description_en": "Future technologies and ancient culture.",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=2094&auto=format&fit=crop"
+    },
+    {
+      "id": 7,
+      "name_uz": "Italiya, Rim",
+      "name_ru": "Италия, Рим",
+      "name_en": "Italy, Rome",
+      "price": 1400,
+      "duration_uz": "7 kun / 6 tun",
+      "duration_ru": "7 дней / 6 ночей",
+      "duration_en": "7 days / 6 nights",
+      "description_uz": "Tarixiy obidalar va italyan oshxonasi sirlari.",
+      "description_ru": "Исторические памятники и секреты итальянской кухни.",
+      "description_en": "Historical monuments and secrets of Italian cuisine.",
+      "image": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?q=80&w=1996&auto=format&fit=crop"
+    },
+    {
+      "id": 8,
+      "name_uz": "Indoneziya, Bali",
+      "name_ru": "Индонезия, Бали",
+      "name_en": "Indonesia, Bali",
+      "price": 950,
+      "duration_uz": "12 kun / 11 tun",
+      "duration_ru": "12 дней / 11 ночей",
+      "duration_en": "12 days / 11 nights",
+      "description_uz": "Ekzotik tabiat va ma'naviy xotirjamlik.",
+      "description_ru": "Экзотическая природа и духовное спокойствие.",
+      "description_en": "Exotic nature and spiritual tranquility.",
+      "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=2071&auto=format&fit=crop"
+    },
+    {
+      "id": 1778744127832,
+      "name_uz": "Fransiya",
+      "name_ru": "Франция",
+      "name_en": "France",
+      "price": "800",
+      "duration_uz": "12 kun / 11 tun",
+      "duration_ru": "12 дней / 11 ночей",
+      "duration_en": "12 days / 11 nights",
+      "description_uz": "France bo‘ylab sayohat sizni romantika, tarix va zamonaviy hayot uyg‘unligi bilan kutib oladi. Tur davomida mashhur Paris shahri, Eiffel Tower, qadimiy muzeylar, go‘zal ko‘chalar va milliy taomlardan bahramand bo‘lasiz. Shuningdek, dengiz bo‘yidagi dam olish maskanlari, moda markazlari hamda Fransiyaning betakror madaniyati sayohatingizni unutilmas taassurotlarga boy qiladi.",
+      "description_ru": "Путешествие во Францию ​​подарит вам сочетание романтики, истории и современной жизни. Во время поездки вы насладитесь знаменитым Парижем, Эйфелевой башней, старинными музеями, прекрасными улочками и национальной кухней. Кроме того, приморские курорты, центры моды и уникальная культура Франции сделают ваше путешествие незабываемым.",
+      "description_en": "A trip to France will welcome you with a combination of romance, history and modern life. During the tour, you will enjoy the famous city of Paris, the Eiffel Tower, ancient museums, beautiful streets and national cuisine. Also, seaside resorts, fashion centers and the unique culture of France will make your trip unforgettable.",
+      "image": "/uploads/1778744126382.jpg"
+    }
+  ],
+  "users": [
+    5701828462
+  ],
+  "leads": [
+    {
+      "id": 1778743710989,
+      "name": "Temurbek",
+      "phone": "+998939391306",
+      "tour": "Yaponiya, Tokio",
+      "date": "14/05/2026, 12:28:30"
+    }
+  ],
+  "settings": {
+    "admin_id": null,
+    "phone": "+998 90 638 76 78",
+    "whatsapp": "+998 91 965 64 17",
+    "telegram": "izlanishcom",
+    "email": "izlanishtravel@gmail.com",
+    "instagram": "@izlanishcom"
+  }
+}

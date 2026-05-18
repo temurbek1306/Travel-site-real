@@ -1,0 +1,17 @@
+Options -Indexes
+RewriteEngine On
+
+# API so'rovlarini api.php ga yo'naltirish
+RewriteRule ^api/tours$    api.php?action=tours    [QSA,L]
+RewriteRule ^api/booking$  api.php?action=booking  [QSA,L]
+RewriteRule ^api/settings$ api.php?action=settings [QSA,L]
+
+# Webhook yo'li
+RewriteRule ^bot/webhook$  webhook.php  [QSA,L]
+
+# Bosh sahifani index.html ga yo'naltirish
+RewriteRule ^$ index.html [L]
+
+# Uploads papkasiga to'g'ridan-to'g'ri kirish ruxsati
+RewriteRule ^uploads/(.*)$ uploads/$1 [L]
+RewriteRule ^Logo/(.*)$    Logo/$1    [L]
